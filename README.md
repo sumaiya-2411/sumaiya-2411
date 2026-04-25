@@ -32,14 +32,13 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python" /><br><br>
+  <img src="https://skillicons.dev/icons?i=figma,ai" />
 </p>
-
 ---
 
 ## 💻 Projects
-
-- 🔹 Portfolio Website – Coming soon  
+ 
 - 🔹 MERN Stack App – Learning project  
 - 🔹 UI Design Projects – Figma based  
 
