@@ -69,6 +69,3 @@
 
 ---
 
-<p align="center">
-✨ "Design meets logic. Creativity meets code." ✨
-</p>
