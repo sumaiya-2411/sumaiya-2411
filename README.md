@@ -62,9 +62,9 @@
   <a href="https://www.linkedin.com/in/sumaiya-tasnim-khan-9b9211383">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sumaiyatasnimkhan24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sumaiyatasnimkhan24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
 </p>
 
 ---
