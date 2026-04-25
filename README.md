@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=6FBDBA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sumaiya+👋;Learning+Developer+%26+Designer;Building+skills+in+code+%26+creativity;Growing+every+day+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=6FBDBA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sumaiya+👋;Learning+Developer+%26+Designer;Building+skills+in+code+%26+creativity;Growing+every+day+">
 </p>
 
 <h1 align="center">Hi, I'm Sumaiya 👋</h1>
 
 <p align="center">
 💻 Learning Developer & Designer <br>
-🎨 Building skills in both code & creativity <br>
-🌱 Currently focusing on development and design
+💻Building skills in both code & creativity <br>
+💻 Currently focusing on development and design
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ---
 
-## 🚀 About Me
+## ✨About Me
 
-- ✨ Learning development and design side by side  
+- 💡 Learning development and design side by side  
 - 💡 Curious, creative, and always improving  
-- 📚 Exploring new tools & technologies daily  
-- 🎯 Currently focusing on development and design  
+- 💡 Exploring new tools & technologies daily  
+- 💡 Currently focusing on development and design  
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Projects
+## 💻 Projects
 
 - 🔹 Portfolio Website – Coming soon  
 - 🔹 MERN Stack App – Learning project  
